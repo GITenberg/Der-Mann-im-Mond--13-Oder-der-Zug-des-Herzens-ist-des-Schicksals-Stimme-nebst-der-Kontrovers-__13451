@@ -1,0 +1,31 @@
+_repo: Der-Mann-im-Mond--13-Oder-der-Zug-des-Herzens-ist-des-Schicksals-Stimme-nebst-der-Kontrovers-__13451
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hauff, Wilhelm
+    birthdate: 1802
+    deathdate: 1827
+    gutenberg_agent_id: '2125'
+    url: http://www.gutenberg.org/2009/agents/2125
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Wilhelm_Hauff
+    - http://de.wikipedia.org/wiki/Wilhelm_Hauff
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2004-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13451'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Germany'
+- !lcc 'PT'
+title: "Der Mann im Mond\r\nOder der Zug des Herzens ist des Schicksals Stimme, nebst\
+  \ der Kontrovers-Predigt über H. Clauren und den Mann im Mond"
+url: http://www.gutenberg.org/ebooks/13451
